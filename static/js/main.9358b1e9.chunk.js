@@ -1,0 +1,2 @@
+(this["webpackJsonptiko react-app"]=this["webpackJsonptiko react-app"]||[]).push([[0],{4:function(e,t,n){"use strict";n.r(t);n(1);var c=n(3),r=n.n(c),i=n(0);setInterval((function(){var e=Object(i.jsxs)("div",{children:[Object(i.jsx)("h1",{children:"Hello, world!"}),Object(i.jsxs)("h2",{children:["It is ",(new Date).toLocaleTimeString(),"."]})]});r.a.render(e,document.getElementById("root"))}),1e3)}},[[4,1,2]]]);
+//# sourceMappingURL=main.9358b1e9.chunk.js.map
